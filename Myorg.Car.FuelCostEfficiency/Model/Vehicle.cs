@@ -45,7 +45,7 @@ namespace Myorg.Car.FuelCostEfficiency.Model
         {
             get
             {
-                return FuelConsumptionLitresPerKm * Constants.MilesPerKm;
+                return FuelConsumptionLitresPerKm / Constants.MilesPerKm;
             }
         }
 
