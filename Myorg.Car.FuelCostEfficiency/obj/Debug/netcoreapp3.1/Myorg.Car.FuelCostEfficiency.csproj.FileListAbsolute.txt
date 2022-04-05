@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\obj\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\obj\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\obj\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\obj\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\bin\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.exe
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\bin\Debug\netcoreapp3.1\TestData\Vehicle Fuel Consumption.txt
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\bin\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.deps.json
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\bin\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\bin\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\bin\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.dll
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\bin\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.pdb
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\obj\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.dll
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\obj\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.pdb
+C:\Users\PC\OneDrive\Documents\GitHub\fuel-cost-efficiency\Myorg.Car.FuelCostEfficiency\obj\Debug\netcoreapp3.1\Myorg.Car.FuelCostEfficiency.genruntimeconfig.cache
